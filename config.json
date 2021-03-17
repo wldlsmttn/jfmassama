@@ -4,13 +4,13 @@
   "site_description": "Blog pessoal do João Ferreira, especialista em SEO na região de Massamá.",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "SEO"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "Wordpress"
     },
     {
-      "keyword": "React"
+      "keyword": "Afiliação"
     }
   ],
   "posts_per_page": 5,
