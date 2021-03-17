@@ -16,7 +16,7 @@ export default function Index() {
             Hi, sou o João Ferreira<span className="fancy">.</span>
           </h1>
           <span className="handle">@SEO</span>
-          <h2>Ajudo a sua empresa a melhorar o seu <a href="https://www.jf-massama.pt/" title="Definição do marketing digital">marketing digital</a>.</h2>
+          <h2>Ajudo a sua empresa a melhorar o seu <a href="https://definicao.marketing/" title="Definição do marketing digital">marketing digital</a>.</h2>
           <SocialList />
         </div>
       </div>
