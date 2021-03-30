@@ -1,6 +1,5 @@
 authors:
-  - slug: wutali
-    name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
-      Python / Golang / React
+  - slug: joao
+    name: João Ferreira
+    introduction: Co-founder and CTO at DPTO, Inc. / Software & Data Engineer / PHP
+      / Golang / React
