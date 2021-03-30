@@ -1,8 +1,5 @@
 authors:
-  - slug: wutali
-    name: Takahiro Fujiwara
-    introduction: Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
-      Python / Golang / React
-  - name: Pedro Gomes
-    introduction: Pedro Gomes - especialista em criptomoedas e empreendedor da net
-    slug: pedro
+  - slug: joao
+    name: João Ferreira
+    introduction: Co-founder and CTO at DPTO, Inc. / Software & Data Engineer / PHP
+      / Golang / React
